@@ -7,7 +7,7 @@ total = 0
 for vogal in vogais:
     total += frase.count(vogal)
 
-print(f'Sua frase tem {total} vogais.')
+print(f'Sua frase/palavra tem {total} vogais.')
 
 
                 
